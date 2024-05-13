@@ -1,0 +1,4 @@
+From: <morahemora@yandex.ru>
+To: <morahemora@yandex.ru>
+Subject: self mail subject
+MIME-Version: 1.0
